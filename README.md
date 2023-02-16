@@ -1,2 +1,2 @@
-# Alurinha
-Praticando Flexbox
+                      ALURINHA
+Alurinha é um projeto para estudo da implementação do Flexbox
